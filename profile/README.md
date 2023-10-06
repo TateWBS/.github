@@ -1,4 +1,24 @@
 
+# Hi, We're TateWBS! 👋
+
+
+## 🚀 About us
+We're a website building business! We build custom websites websites with latest gadgets and tools!
+
+
+## Tech Stack
+
+**Client:** React, Next, Bootstrap, Sass, Tailwindcss
+
+**Server:** Node, Express, Prisma
+
+**Database:** MySQL, MariaDB, MongoDB, SQLite
+
+
+## 🛠 Skills
+Javascript, Typescript, HTML, CSS, JSX, SCSS, Python, Linux, MacOS, Windows, Git 
+
+
 ## FAQ
 
 ### How do you handle web security and data protection in your web development projects?
