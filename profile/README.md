@@ -1,29 +1,27 @@
 
-# Hi, We're TateWBS! 👋
-
-
-## 🚀 About us
-We're a website building business! We build custom websites websites with latest gadgets and tools!
-
-
-## Tech Stack
-
-**Client:** React, Next, Bootstrap, Sass, Tailwindcss
-
-**Server:** Node, Express, Prisma
-
-**Database:** MySQL, MariaDB, MongoDB, SQLite
-
-
-## 🛠 Skills
-Javascript, Typescript, HTML, CSS, JSX, SCSS, Python, Linux, MacOS, Windows, Git 
-
-
 ## FAQ
 
 ### How do you handle web security and data protection in your web development projects?
 
-We handle our web security by generating multiple authentication factors that is unique for each project.
+1. Secure Coding Practices: We adhere to industry best practices for secure coding. This includes validating user inputs, using parameterized queries to prevent SQL injection, and escaping output to prevent cross-site scripting (XSS).
+
+2. Authentication and Authorization: We implement robust authentication and authorization mechanisms to control access to sensitive areas of the website and ensure that only authorized users can perform specific actions.
+
+3. Data Encryption: We use encryption protocols like HTTPS to protect data transmitted between the user's browser and the server. We also encrypt sensitive data at rest to safeguard it from unauthorized access.
+
+4. Regular Security Audits: We conduct regular security audits and vulnerability assessments to identify and address potential security issues proactively.
+
+5. Patch Management: We stay vigilant about software vulnerabilities and apply security patches promptly to keep your website's underlying technology stack secure.
+
+6. Firewalls and Intrusion Detection Systems: We deploy firewalls and intrusion detection systems to monitor and block suspicious activities, helping to protect against common threats.
+
+7. User Education: We educate users and administrators on security best practices, such as creating strong passwords and recognizing phishing attempts.
+
+8. Compliance: If your project requires adherence to specific regulations or compliance standards (e.g., GDPR, HIPAA), we ensure that the website complies with these requirements.
+
+9. Regular Backups: We maintain regular backups of your website data, ensuring that in case of a security incident, we can quickly restore your site to a secure state.
+
+10. Incident Response Plan: In the rare event of a security breach, we have an incident response plan in place to promptly detect, mitigate, and recover from the incident while minimizing any potential damage.
 
 ### Can you provide examples of websites or web applications you've previously developed that are similar in scope or functionality to our project?
 
